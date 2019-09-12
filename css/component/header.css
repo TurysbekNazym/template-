@@ -1,0 +1,23 @@
+#header {
+    background-color: #109CD8
+}
+.header-list {
+    display: flex;
+    color:#fff;
+    flex-direction: row;
+    text-decoration: none;
+    font-size: 13px;
+    padding: 0px 130px;
+}
+#dot {
+    width: 4px;
+    height: 4px;
+    border-radius: 50%;
+    background-color: #fff;
+    margin: 8px 5px 5px 0px ;
+    padding: 3px;
+    display: inline-block;
+}
+.header-list li {
+  padding: 0px 6px;
+}

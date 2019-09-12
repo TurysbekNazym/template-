@@ -1,0 +1,52 @@
+#menu{
+    display: flex;
+    flex-direction: row;
+    padding: 0px 130px;
+}
+
+#menu-left {
+    display: flex;
+    flex-direction: row;
+}
+#menu-left-item-one {
+    display: flex;
+    flex-direction:row; 
+}
+#logo-earth {
+    width: 25px;
+    height: 25px;
+}
+#menu-left-detail-log
+{
+    padding: 10px 5px;
+}
+#menu-left-detail-info 
+{
+    padding: 5px 1px;
+}
+#menu-left-item-two {
+    display: flex;
+    flex-direction: row;
+}
+#arrow-down {
+    width: 7px;
+    height: 5px;
+    margin: 15px 4px;
+}
+#phone {
+    width: 10px;
+    height: 10px;
+    margin: 15px 4px;
+}
+.items {
+    padding: 5px;
+}
+
+#menu-center {
+    display: flex;
+    flex-direction: row;
+}
+#menu-right {
+    display: flex;
+    flex-direction: row;
+}
